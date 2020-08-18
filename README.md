@@ -1,0 +1,1 @@
+This is Shua's first git project!
